@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayuresh</h1>
-<h3 align="center">I am fullstack developer from India🇮🇳. I am working as Front End Developer at AptEdge</h3>
+<h3 align="center">I am fullstack developer from India🇮🇳. I am working as Front End Developer at <a href="https://www.aptedge.io/" target="_blank" rel="noreferrer">AptEdge</a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
