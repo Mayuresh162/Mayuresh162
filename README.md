@@ -44,14 +44,11 @@
   <a href="https://linkedin.com/in/mayureshbhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayureshbhagat" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mayureshbhagat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayureshbhagat0" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/mayureshbhagat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayureshbhagat0" height="30" width="40" /></a>
-  <a href="mailto:mayureshbhagat0@gmail.com" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png" alt="mayureshbhagat0" height="35" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuresh162&show_icons=true&locale=en&layout=compact" alt="mayuresh162" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh162&show_icons=true&locale=en" alt="mayuresh162" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh162" alt="mayuresh162" /></p>
   
   
  
