@@ -1,59 +1,141 @@
-<h1 align="center">Hi 👋, I'm Mayuresh</h1>
-<h3 align="center">I am fullstack developer from India🇮🇳. I am working as Front End Developer at <a href="https://www.aptedge.io/" target="_blank" rel="noreferrer">AptEdge</a></h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+# Mayuresh Bhagat
 
-<h3 align="left">Currently I am working with...</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+### Senior Frontend Engineer • AI Interfaces • React + TypeScript
+
+**8+ years total experience** • **6+ years frontend** • Mumbai, India
+
+  <p>
+    <a href="https://linkedin.com/in/mayureshbhagat"><img src="https://img.shields.io/badge/LinkedIn-Mayuresh%20Bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mayureshbhagat0@gmail.com"><img src="https://img.shields.io/badge/Email-mayureshbhagat0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Mayuresh162"><img src="https://img.shields.io/badge/GitHub-Mayuresh162-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+</div>
+
+---
+
+I build product interfaces where **performance**, **architecture**, and **user experience** have to work together under real production pressure. My recent work sits at the intersection of **Generative AI products**, **React/TypeScript architecture**, **token-streaming interfaces**, **micro-frontends**, **rich text systems**, **observability**, and **data-dense enterprise workflows**.
+
+```ts
+const mayuresh = {
+  focus: "AI interfaces + frontend systems",
+  experience: "8+ years total | 6+ years frontend",
+  stack: ["React", "TypeScript", "Next.js", "Redux", "Tiptap"],
+  edge: [
+    "token-streaming chat UX",
+    "route-level code splitting",
+    "micro-frontends with Yarn Workspaces",
+    "virtualized dashboards",
+    "testing and telemetry systems"
+  ],
+  principle: "Make complex workflows feel fast, calm, and obvious."
+};
+```
+
+---
+
+## AI Frontend Systems
+
+At AptEdge, I worked on **AnswerAI**, a Generative AI-powered answer engine for customer support teams. My frontend work covered real-time token streaming, persistent multi-session chat history, RAG-style interface patterns, Tiptap-powered rich text workflows, telemetry with PostHog, and frontend architecture that could scale across enterprise support platforms.
+
+I like building the layer where engineering craft becomes product clarity: **code splitting that users feel**, **AI responses that stream smoothly**, **dashboards that stay fast with heavy data**, and **editor workflows that make complex knowledge operations simple**.
+
+---
+
+## Measurable Impact
+
+| Area | Result |
+| --- | --- |
+| Performance | Reduced initial bundle size by **64%**, from **1.56MB to 564KB**, using code splitting and route-level lazy loading. |
+| Core Web Vitals | Improved Time to Interactive by **1.8 seconds**. |
+| Workflow Efficiency | Reduced Knowledge Base publishing workflow overhead and rendering costs by **80%**. |
+| Data-Dense UI | Reduced DOM node inflation by **40%** with virtualized dashboard components. |
+| Product Engagement | Helped drive a **45% engagement lift** and **18% competition participation boost**. |
+| Quality | Led a TypeScript upgrade that reduced build-time errors by **35%** and cut production runtime crashes to **zero**. |
+
+---
+
+## Experience Journey
+
+```mermaid
+timeline
+    title Engineering Journey
+    2018 : Software Engineer at Hexaware
+         : Qantas Intelligent Keypad
+         : Mainframe-connected airline reservation UI
+    2020 : Front End Developer at Codewalla
+         : 1Huddle game-based training platform
+         : Onboarding, engagement, dashboards, CI/CD
+    2023 : Senior Frontend Engineer at AptEdge
+         : AnswerAI generative AI support platform
+         : AI chat, micro-frontends, performance, telemetry
+```
+
+---
+
+## Tech I Use
+
+### Frontend Core
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,redux" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind, Redux" />
 </p>
 
-<h3 align="left">I have also worked with...</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/express-js-5379348-4492470.png?f=webp&w=256" alt="express" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=webp&w=256" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+### Architecture, Tooling, Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,webpack,jest,git,githubactions,jenkins,docker,gcp,vercel" alt="Vite, Webpack, Jest, Git, GitHub Actions, Jenkins, Docker, GCP, Vercel" />
 </p>
 
-<h3 align="left">You can also find me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mayureshbhagat5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayureshbhagat5" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mayureshbhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayureshbhagat" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/mayureshbhagat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayureshbhagat0" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/mayureshbhagat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayureshbhagat0" height="30" width="40" /></a>
+### Also Worked With
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,mysql,figma,postman" alt="Angular, Node.js, Express, MongoDB, MySQL, Figma, Postman" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuresh162&show_icons=true&locale=en&layout=compact" alt="mayuresh162" /></p>
+**Specialized areas:** AI interface design, RAG UI patterns, token streaming UX, Tiptap editor extensions, PostHog telemetry, SonarQube, Yarn Workspaces, React Testing Library, Jasmine, Karma.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh162&show_icons=true&locale=en" alt="mayuresh162" /></p>
-  
-  
- 
-  
- 
-  
-  
+---
 
+## Featured Work
+
+### AI Notebook
+
+A full-stack AI application built around **RAG-based workflows**.
+
+- Built a responsive frontend for live token-streaming responses and real-time operational feedback.
+- Created modular ingestion flows for PDFs, web articles, YouTube videos, and raw text.
+- Integrated OpenAI and Groq-powered response orchestration.
+- Solved frontend consistency issues around embedding dimension mismatches during dynamic model switching.
+- Deployed production-ready builds through Vercel and GitHub.
+
+---
+
+## Engineering Style
+
+> I like frontend work that has teeth: fast interfaces, hard product constraints, clean architecture, and enough polish that users never notice how much complexity is underneath.
+
+I care about shipping interfaces that stay fast as the product grows, making complex workflows feel calm and predictable, writing TypeScript that makes future changes less risky, turning product analytics into better engineering decisions, and mentoring developers through patterns, context, and readable code.
+
+---
+
+## GitHub Pulse
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayuresh162&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mayuresh's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh162&layout=compact&theme=tokyonight&hide_border=true" alt="Mayuresh's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayuresh162&theme=tokyonight&hide_border=true" alt="Mayuresh's GitHub streak" />
+</div>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://twitter.com/mayureshbhagat5"><img src="https://img.shields.io/badge/Twitter-mayureshbhagat5-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/mayureshbhagat"><img src="https://img.shields.io/badge/LinkedIn-mayureshbhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/mayureshbhagat0"><img src="https://img.shields.io/badge/HackerRank-mayureshbhagat0-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/mayureshbhagat0"><img src="https://img.shields.io/badge/LeetCode-mayureshbhagat0-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
